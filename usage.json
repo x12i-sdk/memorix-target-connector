@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-target-connector",
+  "packageVersion": "1.0.3",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-target-connector",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-target-connector",
+  "sourceRepository": "https://github.com/x12i/memorix-generic-connectors",
+  "sourceCommit": "e8dd8c95a7ccbf7d3aa881086974242e3dcc1e10",
+  "sourcePackageDirectory": "packages/memorix-target-connector",
+  "example": {
+    "title": "Prepare an outbound payload from safe template roots",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T15:06:22.664010+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "177ce777a0671e9b82445991bdf40004974e05e8b7b17774f7277f90913343e7",
+    "manifestSha256": "66768def1f3521ddbeca961b36af2d562e7c310a3e100648aea4d9f33bd44ec6"
+  },
+  "validationFiles": {
+    "src/index.mjs": "177ce777a0671e9b82445991bdf40004974e05e8b7b17774f7277f90913343e7"
+  }
+}
